@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?<xml-stylesheet hre="colors.css" type="text?css"?>
+<cars>
+  <vehicle>
+  <Manufactur>BMw</Manufactur>
+  <model>M</model>
+  <colors>metallic siver</color>
+  <price>40,000</price>
+  <location>livrpool</location>
+  </vehicle>
+  </cars>
